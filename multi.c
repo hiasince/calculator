@@ -1,4 +1,4 @@
-int multi(int number1, int number2)
+int multi(int n1, int n2)
 {
-	return number1*number2;
+	return n1*n2;
 }
